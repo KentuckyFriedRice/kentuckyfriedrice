@@ -3,9 +3,9 @@
 My name is Matthew Rice. I am an English teacher in Yamanashi prefecture, Japan. 
 I am passionate about computers and all things related. 
 
-🔭 I’m currently working on [ePub2CBZ](https://github.com/KentuckyFriedRice/ePub2CBZ).
-🌱 I’m currently learning Bash scripting.
-📫 How to reach me by email: matthewrice422@gmail.com
+- 🔭 I’m currently working on [ePub2CBZ](https://github.com/KentuckyFriedRice/ePub2CBZ), which cleans up many epub comic books into the cbz format.
+- 🌱 I’m currently learning Bash scripting.
+- 📫 How to reach me by email: matthewrice422@gmail.com
 
 <!--
 **KentuckyFriedRice/kentuckyfriedrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
