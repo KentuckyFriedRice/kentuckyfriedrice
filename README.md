@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 My name is Matthew Rice. I am an English teacher in Yamanashi prefecture, Japan. 
-I am passionate about computers and all things related. 
+I am passionate about computers and all things related. I completed my RHCSA certification in May 2025. 
 
 - 🔭 I’m currently working on [ePub2CBZ](https://github.com/KentuckyFriedRice/ePub2CBZ), which cleans up many epub comic books into the cbz format.
-- 🌱 I’m currently learning Bash scripting.
+- 🌱 I’m currently learning Bash scripting - see [Linux Portfolio](https://github.com/KentuckyFriedRice/Linux-portfolio).
 - 📫 Email: matthewrice422@gmail.com
 
 <!--
